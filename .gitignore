@@ -1,0 +1,43 @@
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Entornos locales
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Notebooks y salidas
+notebooks/output/
+outputs/
+reports/generated/
+
+# Datos pesados o sensibles
+datasets/raw/
+datasets/private/
+*.sqlite
+*.db
+
+# Office temporales
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Power BI
+*.pbix
+*.pbit
+
+# Logs
+*.log
