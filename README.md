@@ -53,9 +53,10 @@ No se requieren conocimientos avanzados de programación.
 
 1. Revisa el [programa del diplomado](./syllabus/programa.md).
 2. Consulta el [calendario sugerido](./syllabus/calendario-sugerido.md).
-3. Trabaja los módulos en orden, desde [Módulo I](./modulo-01-fundamentos/README.md) hasta [Módulo V](./modulo-05-proyecto-final/README.md).
-4. Usa los [laboratorios](./laboratorios/README.md), [casos empresariales](./casos-empresariales/README.md) y [prompts](./prompts/README.md) como material práctico.
-5. Documenta tu proyecto final con la [plantilla de proyecto aplicado](./modulo-05-proyecto-final/plantilla-proyecto.md).
+3. Usa las [presentaciones por módulo](./presentaciones/README.md) como apoyo para clases, talleres y estudio autónomo.
+4. Trabaja los módulos en orden, desde [Módulo I](./modulo-01-fundamentos/README.md) hasta [Módulo V](./modulo-05-proyecto-final/README.md).
+5. Usa los [laboratorios](./laboratorios/README.md), [casos empresariales](./casos-empresariales/README.md) y [prompts](./prompts/README.md) como material práctico.
+6. Documenta tu proyecto final con la [plantilla de proyecto aplicado](./modulo-05-proyecto-final/plantilla-proyecto.md).
 
 ## Contenido del diplomado
 
@@ -72,6 +73,7 @@ No se requieren conocimientos avanzados de programación.
 ```text
 docs/                      Guías generales, ética y uso responsable
 syllabus/                  Programa, calendario y esquema de evaluación
+presentaciones/            Decks PowerPoint para los cinco módulos
 modulo-01-fundamentos/     Fundamentos de IA y gobernanza
 modulo-02-productividad/   Productividad y automatización profesional
 modulo-03-comunicacion/    Comunicación, marketing y contenido
