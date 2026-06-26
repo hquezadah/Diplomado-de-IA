@@ -1,0 +1,25 @@
+fecha,region,categoria,vendedor,unidades,precio_unitario,canal
+2025-01-08,Santo Domingo,Software,Ana,12,120,Online
+2025-01-15,Santiago,Capacitacion,Luis,8,250,Corporativo
+2025-01-20,La Vega,Consultoria,Maria,4,600,Referido
+2025-02-03,Santo Domingo,Capacitacion,Ana,10,250,Corporativo
+2025-02-12,Puerto Plata,Software,Carlos,7,120,Online
+2025-02-25,Santiago,Consultoria,Luis,3,600,Referido
+2025-03-05,San Pedro,Software,Maria,9,120,Online
+2025-03-16,Santo Domingo,Consultoria,Carlos,5,600,Corporativo
+2025-03-28,La Vega,Capacitacion,Ana,6,250,Online
+2025-04-04,Santiago,Software,Luis,14,120,Online
+2025-04-11,Puerto Plata,Capacitacion,Maria,9,250,Corporativo
+2025-04-22,Santo Domingo,Consultoria,Ana,6,600,Referido
+2025-05-02,San Pedro,Capacitacion,Carlos,5,250,Online
+2025-05-14,Santiago,Consultoria,Maria,4,600,Corporativo
+2025-05-27,La Vega,Software,Luis,11,120,Online
+2025-06-06,Santo Domingo,Software,Ana,16,120,Online
+2025-06-18,Puerto Plata,Consultoria,Carlos,2,600,Referido
+2025-06-24,Santiago,Capacitacion,Luis,12,250,Corporativo
+2025-07-07,San Pedro,Software,Maria,8,120,Online
+2025-07-19,Santo Domingo,Capacitacion,Ana,11,250,Corporativo
+2025-08-01,La Vega,Consultoria,Carlos,3,600,Referido
+2025-08-13,Santiago,Software,Luis,15,120,Online
+2025-08-26,Puerto Plata,Capacitacion,Maria,7,250,Online
+2025-09-09,Santo Domingo,Consultoria,Ana,7,600,Corporativo
